@@ -1,4 +1,4 @@
-### Hi there 👋 you
+### 🌱 Hi there 🍃  🌞 Welcome to Sarah's Github 🌞
 
 <!--
 **sarahlineb/sarahlineb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
