@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sarahlinebaugh0@gmail.com**
 
-- ⚡ Fun fact **🚐 I am building a custom sprinter van for my life on the road! 🏕 🏔 🗾 🛣 Everything from the engine, to the floorboards, to the perfect custom desk set-up, to the electric wiring is built and maintained by me! I guess you could say I just love building things 🛠⚙️🔧**
+- ⚡ Fun fact **🚐 I am building a custom sprinter van for my life on the road! 🏕 🏔 🗾 🛣 Everything from the engine, the floorboards, the perfect custom desk set-up, to the electric wiring is built and maintained by me! I guess you could say I just love building things 🛠⚙️🔧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
