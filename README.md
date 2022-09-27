@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there 🍃, I'm Sarah</h1>
+<h1 align="center">✨ Hi there 🍃 I'm Sarah ✨</h1>
 <h3 align="center">I am a backend developer from Virginia 🌄</h3>
 
 - 🔭 I want to learn **Rust | Elixir**
