@@ -6,7 +6,7 @@
 
 - 🔭 I want to learn **Rust | Elixir**
 
-- 🌱 I’m currently learning **Python | Node.js**
+- 🌱 I’m currently learning **Python | Typescript**
 
 - 💬 Ask me about **my favorite places to travel 🚐**
 
