@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi there 🍃 I'm Sarah ✨</h1>
 <h3 align="center">I am a backend developer from Virginia 🌄</h3>
 
-![My logo](![image](https://user-images.githubusercontent.com/95251726/192926041-288001d0-6fb0-4b54-9154-c7a5f818046b.png)
+![alt text](![image](https://user-images.githubusercontent.com/95251726/192926041-288001d0-6fb0-4b54-9154-c7a5f818046b.png)
 )
 
 
