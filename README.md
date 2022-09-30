@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/95251726/192926041-288001d0-6fb0-4b54-9154-c7a5f818046b.png" width="1000"/>
 
-- 🔭 I want to learn **Rust | Elixir | Ruby**
+- 🔭 I want to learn **Rust | Elixir**
 
 - 🌱 I’m currently learning **Python | TypeScript**
 
