@@ -5,7 +5,7 @@
 
 - 🔭 I want to learn **Rust | Elixir**
 
-- 💬 Ask me about **my favorite places to travel 🚐**
+- 💬 Ask me about **my favorite places to travel 😁🚐**
 
 - 📫 How to reach me **sarahlinebaugh0@gmail.com**
 
